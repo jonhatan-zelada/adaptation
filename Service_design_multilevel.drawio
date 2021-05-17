@@ -1,1 +1,80 @@
-<mxfile host="Electron" modified="2021-03-10T05:57:59.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.6.2 Chrome/83.0.4103.122 Electron/9.2.0 Safari/537.36" etag="fBKNSsdadnev4mgc_Ctt" version="13.6.2" type="device"><diagram id="26vAVl-bKkT6xm7p6sql" name="Page-1">5VrZcuI4FP0aV3U/hPLK8ggOM5OadCcTUp15FbbAqsiW25aB9NePZHmVRJYZCCHzQolrLVfnHF3dazAcP979noE0+kZCiA3bDHeGc2nY9nhks09ueBIG1xwLwzpDoTBZrWGBfsHKaFbWAoUw73WkhGCK0r4xIEkCA9qzgSwj2363FcH9VVOwhophEQCsWh9QSKNqW/aotf8B0TqqV7aGE/EkBnXnaid5BEKy7ZicueH4GSFUtOKdDzHHrsZFjPttz9PGsQwm9DUDVn+l/jCxAm83vffHNz/J3cPiopplA3BRbbhylj7VCDC/U95cYbibckQNZwaTsGpeBhjkOQqYMaIxZgaLNcUkMFSwbZ21GgiYdCCJIc2eWJdtC7JXARd18K1tGcSAok1/elBxvW6ma1a4JYgtbJuVLG2nmqdSpW1NBl5/kpwUWQCrcV1YpancsTRVzXc9EQXZGlJlItbobLw1lay9gUFbYdDHCFZr6XgsYjwNKMkYTRuYUcS0fg2WEN+SHFFEEtZlSSglcafDFKM1f0BJ2ieaFBSjBPrN6TMb9vlYuHsr/9UAz+qjatUod/ThaPQxNPdLoYf8W2F2FJinGQTMYp030NZIAnpyYqDdZ4BmMZQULIDb5hLyiyDin0WCfha8QRL+CYKAFAkFS1x2IRyNjGzYLdKMyGG2QQFvTRXyGJK0j3xOM/LIgMecycuEr+LMVghjyQQq6gKGPMw0nMYoDPkys22EKFykIOBrbtm1yWwZczqE4QFPkMSro/LakNglVg5fByPWU4hd/B94sCfS/eCqRFjmexIxVIi4zUgA81wbzdiELNfaB5dy5/83rKRr2TFVrHSadY8F1eQZqNRM6T2hcqwPBlXtjxYr57RYjd0PhpWadj+Q7JFFK10oPKt8wna9Pta6cOepWDtHw1pNkBus/fPG2jWHAwlt79Roq3myYQ8xv8pDtGHNNS33Lkx5ChLZVtSGTtpHEvxUevto8BKeUwd6eRziV30CuHs3d+xj/vf9/O779NpwpvW8bDuFvBaz6VxgZo2zy6y2WAOunentdHZ9dX81X7Bvi/ndjyufNfmC5jaCCfeKl4kJhCEPgRkUFSVr+6XHbB8xKLVUGmIQREwk1WNIgzJdBXwKmPBslk8SgBQsEavv8hdy23ygur3f8gI19qDaHpv/cr74s7dJvr9SXTitfSJM1QETFKepxCEJmIu8JP0XsL9SNuqmzm+V+xtOYBHzoiYVOhCkAnEUthFHF3HuyTYpIxhZKWehqZEisGl1QQktj0dAEpZH43qoeCi0mZeqEsdLyAola0VYb9z4wdN6DFf05Em9VDS7tqZoHmkyCss7WuDV182WkJGubq6Daq9eFuyLDgHJaV8nHZFxJYLSrdZYhatemE4IG5q1Gv5ShzD61Btb9m6/hjB//Ko4zgIJLkLR0rqJaK46+1krS8+VVKgr8bUqNI+mwpFWhcbZvyaTy62hpoR419dk1liTaMk11oHe0vPjzlOXF4k/1et8SzoJIzm/fe3LfEumWZ7o2C/z1cLwO9zy9dMUM+GLdFGmmRFYnpg+u6+PVuz6R7/KC0Ccl5Rvr9ywNzO8y+dOUPWzWzXYaF5adTX0jH73njdz4DqedxBxuM5AGkNWqxwehT9LfWF0c3913qFv/MEin60rMY8U+U72+6QMupw3vj6gec9PdOyApklLO5HMBBuAsMg9P0NUE9rce5QuzMHYmwwPIpELdzywx+8V2Gz1RwP/ps2728TdKh+ai7KK/dLtkzZvg6Uhhj2T0nhfUyPkoptPdKvyckF9/g0kYB2XLx7qvl8VnX2ackDOXUaaotQ90A9N7Gv7xxWhsfbfP878Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T05:20:01.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="k4MqeWINbbBZXGHsbehK" version="14.4.4" type="github">
+  <diagram id="26vAVl-bKkT6xm7p6sql" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-1" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="219.5" as="sourcePoint" />
+            <mxPoint x="480" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-2" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-3" value="Area 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-4" value="Area 1 should be the unique one accountable to provide the service A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-5" value="Service A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-6" value="Process 1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-9" value="Process 2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="310" y="300" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-10" value="Process 3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="384" y="300" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-11" value="Worker A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="245" y="340" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-12" value="Worker C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="406.5" y="350" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-13" value="&lt;div&gt;&lt;span&gt;&lt;u&gt;Area 1 only ask for a service internal OR EXTERNAL:&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;1. CAPABLITIES SERVICES: when it needs resources, information, machines, etc that enables capabilies to provide the services.&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;2.SERVICE DESK: when need help to overcome an incident&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;TO sum up, the area who is owner of a service should have the total control of the resourses for providing the services&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="420" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-14" value="Area1, should be the only accountable for the cost of the service so all service that ask for another area (capability service or service desk) should be include in the cost of its the service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="430" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-17" value="Area 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-18" value="" style="endArrow=classic;html=1;" parent="1" source="fQpC6n1c5xATC8OqoRWS-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="730" as="sourcePoint" />
+            <mxPoint x="110" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-21" value="New application" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQpC6n1c5xATC8OqoRWS-18" vertex="1" connectable="0">
+          <mxGeometry x="0.4355" relative="1" as="geometry">
+            <mxPoint x="43.1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-19" value="OTI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-23" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="650" as="sourcePoint" />
+            <mxPoint x="115" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-24" value="Aplication available" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fQpC6n1c5xATC8OqoRWS-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.8596" relative="1" as="geometry">
+            <mxPoint x="-48.28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQpC6n1c5xATC8OqoRWS-26" value="COst of service 1= Sum (COst of process of service + cost of Capability services+ Cost of service desk+ Cost of Managment service)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="720" width="400" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
